@@ -1,0 +1,23 @@
+.link {
+  font-size: 14px;
+  padding: 0px;
+}
+
+.description {
+  padding-top: 5px;
+}
+
+.heading {
+  padding-bottom: 0px !important;
+  margin-bottom: 0px;
+}
+
+a,
+a:hover {
+  color: black;
+}
+
+h1{
+  text-align: center;
+  margin-bottom: 3%;
+}
